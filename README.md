@@ -1,4 +1,4 @@
-### Hi, 👋
+### Hey its me, Carol 👋
 - 🔭 I’m currently working on improving my skills in **Machine Learning** and **AWS Solution Architecture**.
 - 🌱 My programming language is **Python**.
 - 👯 I’m looking for **open source projects** collaboration opportunities!
